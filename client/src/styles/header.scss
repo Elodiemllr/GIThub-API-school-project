@@ -1,5 +1,9 @@
 .header {
     text-align: center;
+
+    div {
+        margin: 2em 0;
+    }
     &__logo {
         width: 130px;
         vertical-align: middle;
