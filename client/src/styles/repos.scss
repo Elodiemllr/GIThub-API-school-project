@@ -27,6 +27,7 @@
             -webkit-box-shadow 0.1s ease, -webkit-transform 0.1s ease;
 
         &__body {
+            word-wrap: break-word;
             -webkit-box-flex: 1;
             flex-grow: 1;
             border: none;
